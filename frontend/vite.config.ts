@@ -14,12 +14,12 @@ export default defineConfig({
       },
       injectRegister: 'auto',
       manifest: {
-        name: 'Bedrock Claude Chat',
+        name: 'NASA Generative AI Assistant',
         short_name: 'Bedrock Chat',
-        description: 'AWS-native chatbot using Bedrock + Claude',
+        description: 'Chatbot using Bedrock and Claude',
         start_url: '/index.html',
         display: 'standalone',
-        theme_color: '#232F3E',
+        theme_color: '#0b3d91',
         icons: [
           {
             src: '/images/bedrock_icon_72.png',
